@@ -1,4 +1,4 @@
-# 💼 James DiLeva – Python Portfolio
+# 💼 James Dileva – Python Portfolio
 
 This is my personal portfolio website showcasing Python projects I’ve built, including desktop applications, data analysis tools, and automation utilities.
 
