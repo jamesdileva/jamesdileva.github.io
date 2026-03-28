@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>James DiLeva Portfolio</title>
+  <style>
+    body { margin: 0; font-family: Arial, sans-serif; background: #0f172a; color: #e2e8f0; }
+    header { padding: 40px; text-align: center; background: #1e293b; }
+    h1 { margin: 0; font-size: 2.5em; }
+    p { color: #94a3b8; }
+    .container { max-width: 1000px; margin: auto; padding: 20px; }
+    .projects { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; }
+    .card { background: #1e293b; padding: 20px; border-radius: 12px; transition: transform 0.2s ease, box-shadow 0.2s ease; }
+    .card:hover { transform: translateY(-5px); box-shadow: 0 10px 20px rgba(0,0,0,0.3); }
+
+    .links { margin-top: 10px; }
+    .links a {
+      display: inline-block; margin-right: 8px; margin-top: 6px; padding: 6px 10px;
+      border-radius: 6px; background: #334155; color: #e2e8f0; text-decoration: none; font-size: 0.85em;
+    }
+    .links a:hover { background: #475569; }
+
+    .images {
+      margin-top: 12px;
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    .images img {
+      width: 90px;
+      height: 60px;
+      object-fit: cover;
+      border-radius: 6px;
+      cursor: pointer;
+      transition: transform 0.2s ease;
+    }
+
+    .images img:hover {
+      transform: scale(1.05);
+    }
+
+    /* Modal */
+    .modal {
+      display: none;
+      position: fixed;
+      z-index: 1000;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0,0,0,0.8);
+      justify-content: center;
+      align-items: center;
+    }
+
+    .modal img {
+      max-width: 90%;
+      max-height: 90%;
+      border-radius: 10px;
+    }
+
+    footer { text-align: center; padding: 20px; color: #64748b; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>James DiLeva</h1>
+  <p>Python Developer | Projects Portfolio</p>
+</header>
+
+<div class="container">
+  <h2>Projects</h2>
+  <div class="projects">
+
+    <!-- Budget Tracker -->
+    <div class="card">
+      <h3>Budget Tracker</h3>
+      <p>Track income and expenses, categorize transactions, and visualize financial data.</p>
+
+      <div class="images">
+        <img src="images/budget1.png" onclick="openModal(this.src)">
+        <img src="images/budget2.png" onclick="openModal(this.src)">
+        <img src="images/budget3.png" onclick="openModal(this.src)">
+      </div>
+
+      <div class="links">
+        <a href="https://github.com/jamesdileva/Python-Projects/tree/main/Budget%20Tracker">View Code</a>
+        <a href="https://github.com/jamesdileva/Python-Projects/releases/tag/budget-tracker-v1.1">Download</a>
+        <a href="https://github.com/jamesdileva/Python-Projects/blob/main/Budget%20Tracker/README.md">View Details</a>
+      </div>
+    </div>
+
+    <!-- CSV Analyzer -->
+    <div class="card">
+      <h3>CSV Analyzer</h3>
+      <p>Analyze CSV files and extract meaningful statistics and insights.</p>
+
+      <div class="images">
+        <img src="images/csv1.png" onclick="openModal(this.src)">
+        <img src="images/csv2.png" onclick="openModal(this.src)">
+        <img src="images/csv3.png" onclick="openModal(this.src)">
+      </div>
+
+      <div class="links">
+        <a href="https://github.com/jamesdileva/Python-Projects/tree/main/CSV%20Analyzer">View Code</a>
+        <a href="https://github.com/jamesdileva/Python-Projects/releases/tag/csv-analyzer-v1.1">Download</a>
+        <a href="https://github.com/jamesdileva/Python-Projects/blob/main/CSV%20Analyzer/README.md">View Details</a>
+      </div>
+    </div>
+
+    <!-- News Tracker -->
+    <div class="card">
+      <h3>News Tracker</h3>
+      <p>Fetch and display current news using APIs.</p>
+
+      <div class="images">
+        <img src="images/news1.png" onclick="openModal(this.src)">
+        <img src="images/news2.png" onclick="openModal(this.src)">
+      </div>
+
+      <div class="links">
+        <a href="https://github.com/jamesdileva/Python-Projects/tree/main/News%20Tracker">View Code</a>
+        <a href="https://github.com/jamesdileva/Python-Projects/releases/tag/news-tracker-v1.1">Download</a>
+        <a href="https://github.com/jamesdileva/Python-Projects/blob/main/News%20Tracker/README.md">View Details</a>
+      </div>
+    </div>
+
+    <!-- File Organizer -->
+    <div class="card">
+      <h3>File Organizer</h3>
+      <p>Automatically organize files into folders by type.</p>
+
+      <div class="images">
+        <img src="images/file1.png" onclick="openModal(this.src)">
+        <img src="images/file2.png" onclick="openModal(this.src)">
+      </div>
+
+      <div class="links">
+        <a href="https://github.com/jamesdileva/Python-Projects/tree/main/File%20Organizer">View Code</a>
+        <a href="https://github.com/jamesdileva/Python-Projects/releases/tag/file-organizer-v1.1">Download</a>
+        <a href="https://github.com/jamesdileva/Python-Projects/blob/main/File%20Organizer/README.md">View Details</a>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal" id="modal" onclick="closeModal()">
+  <img id="modalImg">
+</div>
+
+<script>
+function openModal(src) {
+  document.getElementById("modal").style.display = "flex";
+  document.getElementById("modalImg").src = src;
+}
+
+function closeModal() {
+  document.getElementById("modal").style.display = "none";
+}
+</script>
+
+<footer>
+  <p>© 2026 James DiLeva</p>
+</footer>
+
+</body>
+</html>
