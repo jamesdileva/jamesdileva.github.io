@@ -76,5 +76,4 @@ This portfolio demonstrates my ability to:
 ---
 
 ## 📬 Contact
-
-(Add your email or LinkedIn here)
+jamesdileva@gmail.com
