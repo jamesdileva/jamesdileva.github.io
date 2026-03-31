@@ -1,14 +1,14 @@
-# 💼 James Dileva – Python Portfolio
+#  James Dileva – Python Portfolio
 
 This is my personal portfolio website showcasing Python projects I’ve built, including desktop applications, data analysis tools, and automation utilities.
 
-## 🚀 Live Site
+##  Live Site
 
 (Replace with your GitHub Pages link once deployed)
 
-## 📌 Projects Included
+##  Projects Included
 
-### 💰 Budget Tracker
+###  Budget Tracker
 
 A desktop application for tracking income and expenses with built-in data visualization.
 
@@ -16,7 +16,7 @@ A desktop application for tracking income and expenses with built-in data visual
 * View spending charts and income vs expenses
 * Export data to CSV/Excel
 
-### 📊 CSV Analyzer
+###  CSV Analyzer
 
 A tool for analyzing CSV datasets and generating insights.
 
@@ -24,7 +24,7 @@ A tool for analyzing CSV datasets and generating insights.
 * View categorized spending
 * Generate charts and summaries
 
-### 📰 News Tracker
+###  News Tracker
 
 A live news application that fetches and displays headlines from APIs.
 
@@ -32,7 +32,7 @@ A live news application that fetches and displays headlines from APIs.
 * Save articles
 * Live ticker display
 
-### 📁 File Organizer
+###  File Organizer
 
 An automation tool for organizing files by type.
 
@@ -42,7 +42,7 @@ An automation tool for organizing files by type.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python
 * CustomTkinter (GUI)
@@ -51,20 +51,20 @@ An automation tool for organizing files by type.
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 Each project includes screenshots and downloadable demos directly on the site.
 
 ---
 
-## 📦 Running Locally
+##  Running Locally
 
 1. Clone the repository
 2. Open `index.html` in your browser
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 
 This portfolio demonstrates my ability to:
 
