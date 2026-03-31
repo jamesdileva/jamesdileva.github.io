@@ -3,8 +3,7 @@
 This is my personal portfolio website showcasing Python projects I’ve built, including desktop applications, data analysis tools, and automation utilities.
 
 ##  Live Site
-
-(Replace with your GitHub Pages link once deployed)
+jamesdileva.github.io
 
 ##  Projects Included
 
