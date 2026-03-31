@@ -58,8 +58,9 @@ Each project includes screenshots and downloadable demos directly on the site.
 
 ##  Running Locally
 
-1. Clone the repository
-2. Open `index.html` in your browser
+1. Each program has a README to run locally.
+   or
+2. Download the executable and run it.
 
 ---
 
