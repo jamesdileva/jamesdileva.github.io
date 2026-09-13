@@ -1,0 +1,86 @@
+{
+  "generatedAt": "2026-09-12T13:27:42.747Z",
+  "projects": [
+    {
+      "id": "41192921-c657-447a-aa99-34fd4c742d04",
+      "name": "dinner-menu-gen",
+      "description": "A simple, local-first dinner planning app that answers **\"What's for dinner tonight?\"**",
+      "features": [],
+      "techStack": [],
+      "githubUrl": "https://github.com/jamesdileva/dinner-menu-generator",
+      "projectStatus": "active",
+      "sessions": [
+        {
+          "id": "11bfd88c-4e8a-40dd-aa16-2641d742be42",
+          "startedAt": "2026-09-12T13:26:21.180Z",
+          "durationMs": 81566,
+          "status": "complete"
+        },
+        {
+          "id": "0dcbe1ef-5de3-497a-8518-2cd406c551cc",
+          "startedAt": "2026-09-12T13:00:41.786Z",
+          "durationMs": 67195,
+          "status": "complete"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": "88f2ca01-930d-42d7-835e-792bdd16bad9",
+          "path": "C:\\Users\\j\\AppData\\Roaming\\portfolio-auto-recorder\\recordings\\41192921-c657-447a-aa99-34fd4c742d04\\11bfd88c-4e8a-40dd-aa16-2641d742be42\\screenshots\\shot-010.png",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "id": "cee6abbd-3593-4387-a890-15c213b34100",
+          "path": "C:\\Users\\j\\AppData\\Roaming\\portfolio-auto-recorder\\recordings\\41192921-c657-447a-aa99-34fd4c742d04\\11bfd88c-4e8a-40dd-aa16-2641d742be42\\screenshots\\shot-001.png",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "id": "fb7ffc9c-3953-4379-97be-85bb30add2c7",
+          "path": "C:\\Users\\j\\AppData\\Roaming\\portfolio-auto-recorder\\recordings\\41192921-c657-447a-aa99-34fd4c742d04\\11bfd88c-4e8a-40dd-aa16-2641d742be42\\screenshots\\shot-003.png",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "id": "55e4cc9c-2465-4cc3-8c42-38dfcc35e5e8",
+          "path": "C:\\Users\\j\\AppData\\Roaming\\portfolio-auto-recorder\\recordings\\41192921-c657-447a-aa99-34fd4c742d04\\11bfd88c-4e8a-40dd-aa16-2641d742be42\\screenshots\\shot-004.png",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "id": "c889a6ee-3892-404f-98b4-9ac9331b5001",
+          "path": "C:\\Users\\j\\AppData\\Roaming\\portfolio-auto-recorder\\recordings\\41192921-c657-447a-aa99-34fd4c742d04\\11bfd88c-4e8a-40dd-aa16-2641d742be42\\screenshots\\shot-006.png",
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "demoPath": null
+    },
+    {
+      "id": "768e6afa-a943-47f4-aa01-6895cd86899f",
+      "name": "sentinel",
+      "description": "A local-first, privacy-respecting personal software operations platform that continuously understands, maintains, tests, documents, and analyzes the user's software projects.",
+      "features": [],
+      "techStack": [],
+      "githubUrl": "https://github.com/jamesdileva/Sentinel",
+      "projectStatus": "active",
+      "sessions": [
+        {
+          "id": "4e26b05a-ec1c-45b4-baf8-ed1143734610",
+          "startedAt": "2026-09-12T11:32:39.550Z",
+          "durationMs": 59313,
+          "status": "complete"
+        }
+      ],
+      "screenshots": [],
+      "demoPath": null
+    }
+  ],
+  "summary": {
+    "totalProjects": 2,
+    "totalSessions": 3,
+    "totalScreenshots": 5,
+    "hasDemos": false
+  }
+}
