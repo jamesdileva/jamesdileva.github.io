@@ -1,6 +1,92 @@
 {
-  "generatedAt": "2026-09-12T13:27:42.747Z",
+  "generatedAt": "2026-09-13T04:38:16.452Z",
   "projects": [
+    {
+      "id": "239bdd43-4bb3-46df-9c15-460e2ee20a6d",
+      "name": "worldsim",
+      "description": null,
+      "features": [],
+      "techStack": [],
+      "githubUrl": "https://github.com/jamesdileva/worldsim",
+      "projectStatus": "active",
+      "sessions": [
+        {
+          "id": "2249bf2d-0a7b-4c7f-b81f-7f0880654e51",
+          "startedAt": "2026-09-13T04:35:20.874Z",
+          "durationMs": 175577,
+          "status": "complete"
+        },
+        {
+          "id": "451cc9f7-fd5e-4866-bff8-b92e1baf4368",
+          "startedAt": "2026-09-13T02:25:33.928Z",
+          "durationMs": 234080,
+          "status": "complete"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": "3c0e7725-94c5-4f4e-95ec-d67d545da35b",
+          "path": "C:\\Users\\j\\AppData\\Roaming\\portfolio-auto-recorder\\recordings\\239bdd43-4bb3-46df-9c15-460e2ee20a6d\\2249bf2d-0a7b-4c7f-b81f-7f0880654e51\\screenshots\\shot-007.png",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "id": "61d15ea2-d24f-42d0-8f33-4bbe72800fac",
+          "path": "C:\\Users\\j\\AppData\\Roaming\\portfolio-auto-recorder\\recordings\\239bdd43-4bb3-46df-9c15-460e2ee20a6d\\2249bf2d-0a7b-4c7f-b81f-7f0880654e51\\screenshots\\shot-010.png",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "id": "9ad3b76f-6a2e-4b95-b653-102e99294757",
+          "path": "C:\\Users\\j\\AppData\\Roaming\\portfolio-auto-recorder\\recordings\\239bdd43-4bb3-46df-9c15-460e2ee20a6d\\2249bf2d-0a7b-4c7f-b81f-7f0880654e51\\screenshots\\shot-012.png",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "id": "7e8c306a-c906-422f-af32-70ea64a60e43",
+          "path": "C:\\Users\\j\\AppData\\Roaming\\portfolio-auto-recorder\\recordings\\239bdd43-4bb3-46df-9c15-460e2ee20a6d\\2249bf2d-0a7b-4c7f-b81f-7f0880654e51\\screenshots\\shot-001.png",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "id": "ea856a46-94ed-4ccf-bba2-3b1aee3294e3",
+          "path": "C:\\Users\\j\\AppData\\Roaming\\portfolio-auto-recorder\\recordings\\239bdd43-4bb3-46df-9c15-460e2ee20a6d\\2249bf2d-0a7b-4c7f-b81f-7f0880654e51\\screenshots\\shot-003.png",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "id": "c849f161-cff6-42e2-9f70-3f35dde11e48",
+          "path": "C:\\Users\\j\\AppData\\Roaming\\portfolio-auto-recorder\\recordings\\239bdd43-4bb3-46df-9c15-460e2ee20a6d\\451cc9f7-fd5e-4866-bff8-b92e1baf4368\\screenshots\\shot-012.png",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "id": "685902e3-d099-45e8-9560-6610591e9d32",
+          "path": "C:\\Users\\j\\AppData\\Roaming\\portfolio-auto-recorder\\recordings\\239bdd43-4bb3-46df-9c15-460e2ee20a6d\\451cc9f7-fd5e-4866-bff8-b92e1baf4368\\screenshots\\shot-014.png",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "id": "83a9249b-aaab-4d45-bf29-994a5bddc24b",
+          "path": "C:\\Users\\j\\AppData\\Roaming\\portfolio-auto-recorder\\recordings\\239bdd43-4bb3-46df-9c15-460e2ee20a6d\\451cc9f7-fd5e-4866-bff8-b92e1baf4368\\screenshots\\shot-001.png",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "id": "4fe23be0-bc6b-4a9a-8e59-ef791e694770",
+          "path": "C:\\Users\\j\\AppData\\Roaming\\portfolio-auto-recorder\\recordings\\239bdd43-4bb3-46df-9c15-460e2ee20a6d\\451cc9f7-fd5e-4866-bff8-b92e1baf4368\\screenshots\\shot-004.png",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "id": "25d538ff-85e1-4205-a5a5-d37901462913",
+          "path": "C:\\Users\\j\\AppData\\Roaming\\portfolio-auto-recorder\\recordings\\239bdd43-4bb3-46df-9c15-460e2ee20a6d\\451cc9f7-fd5e-4866-bff8-b92e1baf4368\\screenshots\\shot-011.png",
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "demoPath": "C:\\Users\\j\\AppData\\Roaming\\portfolio-auto-recorder\\recordings\\239bdd43-4bb3-46df-9c15-460e2ee20a6d\\2249bf2d-0a7b-4c7f-b81f-7f0880654e51\\processed\\demo.mp4"
+    },
     {
       "id": "41192921-c657-447a-aa99-34fd4c742d04",
       "name": "dinner-menu-gen",
@@ -55,7 +141,7 @@
           "height": 1080
         }
       ],
-      "demoPath": null
+      "demoPath": "C:\\Users\\j\\AppData\\Roaming\\portfolio-auto-recorder\\recordings\\41192921-c657-447a-aa99-34fd4c742d04\\11bfd88c-4e8a-40dd-aa16-2641d742be42\\raw.mp4"
     },
     {
       "id": "768e6afa-a943-47f4-aa01-6895cd86899f",
@@ -78,9 +164,9 @@
     }
   ],
   "summary": {
-    "totalProjects": 2,
-    "totalSessions": 3,
-    "totalScreenshots": 5,
-    "hasDemos": false
+    "totalProjects": 3,
+    "totalSessions": 5,
+    "totalScreenshots": 15,
+    "hasDemos": true
   }
 }
