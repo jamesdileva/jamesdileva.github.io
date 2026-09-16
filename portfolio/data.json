@@ -1,6 +1,64 @@
 {
-  "generatedAt": "2026-09-13T04:38:16.452Z",
+  "generatedAt": "2026-09-14T07:11:12.051Z",
   "projects": [
+    {
+      "id": "9d445f36-a2f5-4507-aa60-99677966fd20",
+      "name": "airadio",
+      "description": null,
+      "features": [],
+      "techStack": [
+        "TypeScript"
+      ],
+      "githubUrl": "https://github.com/jamesdileva/airadio",
+      "projectStatus": "active",
+      "sessions": [
+        {
+          "id": "98b66f88-690f-4aee-993f-8f94b5325479",
+          "startedAt": "2026-09-14T07:08:25.617Z",
+          "durationMs": 166433,
+          "status": "complete"
+        },
+        {
+          "id": "6b6621bc-f2e4-4c56-9078-29f206674d14",
+          "startedAt": "2026-09-14T07:07:55.870Z",
+          "durationMs": 13469,
+          "status": "complete"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": "5191b8da-97f8-428a-a357-8da97827f5d2",
+          "path": "C:\\Users\\j\\AppData\\Roaming\\portfolio-auto-recorder\\recordings\\9d445f36-a2f5-4507-aa60-99677966fd20\\98b66f88-690f-4aee-993f-8f94b5325479\\screenshots\\shot-003.png",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "id": "318eff98-e00e-47df-946c-206a6ef3630b",
+          "path": "C:\\Users\\j\\AppData\\Roaming\\portfolio-auto-recorder\\recordings\\9d445f36-a2f5-4507-aa60-99677966fd20\\98b66f88-690f-4aee-993f-8f94b5325479\\screenshots\\shot-012.png",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "id": "d977959f-8c12-4cf1-89ac-fb9f49a756c9",
+          "path": "C:\\Users\\j\\AppData\\Roaming\\portfolio-auto-recorder\\recordings\\9d445f36-a2f5-4507-aa60-99677966fd20\\98b66f88-690f-4aee-993f-8f94b5325479\\screenshots\\shot-014.png",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "id": "27ca0dc3-997d-4b26-a315-c95a3d2ff742",
+          "path": "C:\\Users\\j\\AppData\\Roaming\\portfolio-auto-recorder\\recordings\\9d445f36-a2f5-4507-aa60-99677966fd20\\98b66f88-690f-4aee-993f-8f94b5325479\\screenshots\\shot-016.png",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "id": "9f1bcd88-484a-418b-811f-19778b625f35",
+          "path": "C:\\Users\\j\\AppData\\Roaming\\portfolio-auto-recorder\\recordings\\9d445f36-a2f5-4507-aa60-99677966fd20\\98b66f88-690f-4aee-993f-8f94b5325479\\screenshots\\shot-001.png",
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "demoPath": "C:\\Users\\j\\AppData\\Roaming\\portfolio-auto-recorder\\recordings\\9d445f36-a2f5-4507-aa60-99677966fd20\\98b66f88-690f-4aee-993f-8f94b5325479\\processed\\demo.mp4"
+    },
     {
       "id": "239bdd43-4bb3-46df-9c15-460e2ee20a6d",
       "name": "worldsim",
@@ -151,22 +209,15 @@
       "techStack": [],
       "githubUrl": "https://github.com/jamesdileva/Sentinel",
       "projectStatus": "active",
-      "sessions": [
-        {
-          "id": "4e26b05a-ec1c-45b4-baf8-ed1143734610",
-          "startedAt": "2026-09-12T11:32:39.550Z",
-          "durationMs": 59313,
-          "status": "complete"
-        }
-      ],
+      "sessions": [],
       "screenshots": [],
       "demoPath": null
     }
   ],
   "summary": {
-    "totalProjects": 3,
-    "totalSessions": 5,
-    "totalScreenshots": 15,
+    "totalProjects": 4,
+    "totalSessions": 6,
+    "totalScreenshots": 20,
     "hasDemos": true
   }
 }
