@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T07:11:12.051Z",
+  "generatedAt": "2026-09-17T03:50:49.797Z",
   "projects": [
     {
       "id": "9d445f36-a2f5-4507-aa60-99677966fd20",
@@ -16,12 +16,6 @@
           "id": "98b66f88-690f-4aee-993f-8f94b5325479",
           "startedAt": "2026-09-14T07:08:25.617Z",
           "durationMs": 166433,
-          "status": "complete"
-        },
-        {
-          "id": "6b6621bc-f2e4-4c56-9078-29f206674d14",
-          "startedAt": "2026-09-14T07:07:55.870Z",
-          "durationMs": 13469,
           "status": "complete"
         }
       ],
@@ -73,12 +67,6 @@
           "startedAt": "2026-09-13T04:35:20.874Z",
           "durationMs": 175577,
           "status": "complete"
-        },
-        {
-          "id": "451cc9f7-fd5e-4866-bff8-b92e1baf4368",
-          "startedAt": "2026-09-13T02:25:33.928Z",
-          "durationMs": 234080,
-          "status": "complete"
         }
       ],
       "screenshots": [
@@ -111,36 +99,6 @@
           "path": "C:\\Users\\j\\AppData\\Roaming\\portfolio-auto-recorder\\recordings\\239bdd43-4bb3-46df-9c15-460e2ee20a6d\\2249bf2d-0a7b-4c7f-b81f-7f0880654e51\\screenshots\\shot-003.png",
           "width": 1920,
           "height": 1080
-        },
-        {
-          "id": "c849f161-cff6-42e2-9f70-3f35dde11e48",
-          "path": "C:\\Users\\j\\AppData\\Roaming\\portfolio-auto-recorder\\recordings\\239bdd43-4bb3-46df-9c15-460e2ee20a6d\\451cc9f7-fd5e-4866-bff8-b92e1baf4368\\screenshots\\shot-012.png",
-          "width": 1920,
-          "height": 1080
-        },
-        {
-          "id": "685902e3-d099-45e8-9560-6610591e9d32",
-          "path": "C:\\Users\\j\\AppData\\Roaming\\portfolio-auto-recorder\\recordings\\239bdd43-4bb3-46df-9c15-460e2ee20a6d\\451cc9f7-fd5e-4866-bff8-b92e1baf4368\\screenshots\\shot-014.png",
-          "width": 1920,
-          "height": 1080
-        },
-        {
-          "id": "83a9249b-aaab-4d45-bf29-994a5bddc24b",
-          "path": "C:\\Users\\j\\AppData\\Roaming\\portfolio-auto-recorder\\recordings\\239bdd43-4bb3-46df-9c15-460e2ee20a6d\\451cc9f7-fd5e-4866-bff8-b92e1baf4368\\screenshots\\shot-001.png",
-          "width": 1920,
-          "height": 1080
-        },
-        {
-          "id": "4fe23be0-bc6b-4a9a-8e59-ef791e694770",
-          "path": "C:\\Users\\j\\AppData\\Roaming\\portfolio-auto-recorder\\recordings\\239bdd43-4bb3-46df-9c15-460e2ee20a6d\\451cc9f7-fd5e-4866-bff8-b92e1baf4368\\screenshots\\shot-004.png",
-          "width": 1920,
-          "height": 1080
-        },
-        {
-          "id": "25d538ff-85e1-4205-a5a5-d37901462913",
-          "path": "C:\\Users\\j\\AppData\\Roaming\\portfolio-auto-recorder\\recordings\\239bdd43-4bb3-46df-9c15-460e2ee20a6d\\451cc9f7-fd5e-4866-bff8-b92e1baf4368\\screenshots\\shot-011.png",
-          "width": 1920,
-          "height": 1080
         }
       ],
       "demoPath": "C:\\Users\\j\\AppData\\Roaming\\portfolio-auto-recorder\\recordings\\239bdd43-4bb3-46df-9c15-460e2ee20a6d\\2249bf2d-0a7b-4c7f-b81f-7f0880654e51\\processed\\demo.mp4"
@@ -158,12 +116,6 @@
           "id": "11bfd88c-4e8a-40dd-aa16-2641d742be42",
           "startedAt": "2026-09-12T13:26:21.180Z",
           "durationMs": 81566,
-          "status": "complete"
-        },
-        {
-          "id": "0dcbe1ef-5de3-497a-8518-2cd406c551cc",
-          "startedAt": "2026-09-12T13:00:41.786Z",
-          "durationMs": 67195,
           "status": "complete"
         }
       ],
@@ -216,8 +168,8 @@
   ],
   "summary": {
     "totalProjects": 4,
-    "totalSessions": 6,
-    "totalScreenshots": 20,
+    "totalSessions": 3,
+    "totalScreenshots": 15,
     "hasDemos": true
   }
 }
